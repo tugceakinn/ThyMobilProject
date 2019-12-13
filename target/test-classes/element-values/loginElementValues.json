@@ -1,0 +1,108 @@
+[
+  {
+    "key": "girisYap",
+    "androidValue": "com.pozitron.pegasus:id/activity_home_text_view_member_full_name",
+    "androidType": "id"
+  },
+  {
+    "key": "alankodu",
+    "androidValue": "(//android.widget.EditText)[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "numara",
+    "androidValue": "(//android.widget.EditText)[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "girisYapın",
+    "androidValue": "com.pozitron.pegasus:id/layout_login_expandable_button_login",
+    "androidType": "id"
+  },
+  {
+    "key": "sifre",
+    "androidValue": "(//android.widget.EditText)[4]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ekBagaj",
+    "androidValue": "(//android.widget.TextView[@resource-id=\"com.pozitron.pegasus:id/layout_home_action_textview_title\"])[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "sohbetbaslatbutonu",
+    "androidValue": "com.android.mms:id/fab_img",
+    "androidType": "id"
+  },
+  {
+    "key": "gönderButonu",
+    "androidValue": "com.android.mms:id/send_button_text",
+    "androidType": "id"
+  },
+
+  {
+    "key": "ucuzucusara",
+    "androidValue": "com.pozitron.pegasus:id/activity_home_button_search_flight",
+    "androidType": "id"
+  },
+  {
+    "key": "NeredenTikla",
+    "androidValue": "(//android.widget.LinearLayout[@resource-id='com.pozitron.pegasus:id/layout_input_field_text_input_layout']//android.widget.EditText)[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "NeredenSendkeys",
+    "androidValue": "com.pozitron.pegasus:id/fragment_port_selection_edit_text_from_port",
+    "androidType": "id"
+  },
+  {
+    "key": "NeredenTiklaSelect",
+    "androidValue": "com.pozitron.pegasus:id/list_item_port_selection_list_content_text_view",
+    "androidType": "id"
+  },
+  {
+    "key": "NereyeTikla",
+    "androidValue": "com.pozitron.pegasus:id/fragment_port_selection_edit_text_to_port",
+    "androidType": "id"
+  },
+  {
+    "key": "NereyeTiklaSelect",
+    "androidValue": "(//android.widget.LinearLayout[@resource-id=\"com.pozitron.pegasus:id/layout_input_field_text_input_layout\"]//android.widget.EditText)[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "NereyeSendkeys",
+    "androidValue": "com.pozitron.pegasus:id/fragment_port_selection_edit_text_to_port",
+    "androidType": "id"
+  },
+  {
+    "key": "NereyeTıklaSelect",
+    "androidValue": "com.pozitron.pegasus:id/list_item_port_selection_list_content_text_view",
+    "androidType": "id"
+  },
+  {
+    "key": "TekyönButonu",
+    "androidValue": "com.pozitron.pegasus:id/right",
+    "androidType": "id"
+  },
+  {
+    "key": "GidisTarihi",
+    "androidValue": "(//android.widget.LinearLayout[@resource-id=\"com.pozitron.pegasus:id/layout_input_field_text_input_layout\"]//android.widget.EditText)[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "tarihSec",
+    "androidValue": "(((//android.view.ViewGroup[@resource-id='com.pozitron.pegasus:id/calendar_grid'])[2]//android.view.ViewGroup)[2]//android.widget.FrameLayout)[3]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "TarihSecTamamButonu",
+    "androidValue": "com.pozitron.pegasus:id/fragment_date_selection_button_approve",
+    "androidType": "id"
+  },
+  {
+    "key": "UcuzUcusAraButonu",
+    "androidValue": "com.pozitron.pegasus:id/fragment_search_flight_button_search",
+    "androidType": "id"
+  }
+]
