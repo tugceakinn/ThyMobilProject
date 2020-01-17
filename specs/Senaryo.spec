@@ -4,7 +4,6 @@
 senaryoAndroid
 ----------------
 
- csv oku
 * yolcu "1" datalarını oku
 * "biletAlButonu" butonuna tıkla
 * "TekYönUcusButonu" elementine "TekYönUcusButonu" ata
@@ -13,7 +12,6 @@ senaryoAndroid
 * "yetiskinsayisisec" butonuna tıkla
 * "ucusara" butonuna tıkla
 * "3" saniye bekle
- ucus kontrolu "ucuslistesi"
 * ekonomik ucus secilir
 * "ucusSecEkonomikDevamYolcuEkle" butonuna tıkla
 * "yolcuAdı" elementine "ad" ata
@@ -32,7 +30,9 @@ senaryoAndroid
 * "tc" elementine "tc" ata
 * "tcGir" elementine "tcGir" ata
 * "kaydet" butonuna tıkla
+* swipe et
 * yolcu "2" datalarını oku
+* "ikinciYolcuAc" butonuna tıkla
 * "ikinciYolcuSec" butonuna tıkla
 * "yolcuAdı" elementine "ad" ata
 * "yolcuSoyadı" elementine "soyad" ata
