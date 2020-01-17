@@ -1,0 +1,29 @@
+Created by sahabt on 2020-01-16
+
+This is a concept file with following syntax for each concept.
+# gidiş yönü seçilir
+* "gidisSAW" butonuna tıkla
+* "gidisSAWYaz" elementine "SAW" degeri yazılır
+* "gidisSAWYazSec" butonuna tıkla
+* "dönüsESB" butonuna tıkla
+* "dönüsESBYaz" elementine "ESB" degeri yazılır
+* "dönüsESBYazSec" butonuna tıkla
+
+
+
+# ekonomik ucus secilir
+* "ucusSec" butonuna tıkla
+* "ucusSecEkonomik" butonuna tıkla
+* "ucusSecEkonomikDevam" butonuna tıkla
+
+#  3 swipe et
+* swipe et
+* swipe et
+* swipe et
+
+
+# Ödeme gec
+* "krediKartiSec" butonuna tıkla
+* "krediKartiNumarasi" butonuna tıkla
+* "krediKartiSKT" butonuna tıkla
+* "krediKartiOnayla" butonuna tıkla
