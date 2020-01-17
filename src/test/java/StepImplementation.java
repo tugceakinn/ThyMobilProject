@@ -185,7 +185,7 @@ public class StepImplementation extends HookImpl {
 
     @Step("yolcu <index> datalarını oku")
     public void reaidcsvSample(int index) {
-        String csvFile = "/Users/sahabt/Desktop/addresses.csv";
+        String csvFile = "./addresses.csv";
         int i = 1;
         BufferedReader br = null;
         String line = "";
