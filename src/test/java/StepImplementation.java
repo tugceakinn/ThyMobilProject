@@ -198,11 +198,10 @@ public class StepImplementation extends HookImpl {
                 String[] passenger = line.split(cvsSplitBy);
                 if(i == index){
                     passengerInfo = new PassengerInfo(passenger[0], passenger[1], passenger[2], passenger[3], passenger[4], passenger[5], passenger[6], passenger[7], passenger[8],passenger[9]);
+                    System.out.println("Info" + passenger[0] + ", " + passenger[1] + ", " + passenger[2] + ", " + passenger[3] + ", " + passenger[4] + ", " + passenger[5] + ", " + passenger[6] + ", " + passenger[7] + ", " + passenger[8] + ", " + passenger[9]);
+
                 }
                 i++;
-
-                System.out.println("Info" + passenger[0] + ", " + passenger[1] + ", " + passenger[2] + ", " + passenger[3] + ", " + passenger[4] + ", " + passenger[5] + ", " + passenger[6] + ", " + passenger[7] + ", " + passenger[8] + ", " + passenger[9]);
-
             }
 
         } catch (Exception e) {
