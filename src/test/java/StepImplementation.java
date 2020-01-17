@@ -126,15 +126,15 @@ public class StepImplementation extends HookImpl {
         if (appiumDriver instanceof IOSDriver) {
             Dimension size = appiumDriver.manage().window().getSize();
             int x = size.getWidth() -1;
-            int starty = (int) (size.getHeight() * 0.60);
-            int endy = (int) (size.getHeight() * 0.10);
+            int starty = (int) (size.getHeight() * 0.10);
+            int endy = (int) (size.getHeight() * 0.60);
 
             new TouchAction(appiumDriver).longPress(PointOption.point(x, starty))
                     .moveTo(PointOption.point(x, endy))
                     .release().perform();
         } else {
-            new TouchAction(appiumDriver).longPress(PointOption.point(330, 800))
-                    .moveTo(PointOption.point(330, 568))
+            new TouchAction(appiumDriver).longPress(PointOption.point(2, 800))
+                    .moveTo(PointOption.point(2, 568))
                     .release().perform();
         }
 
